@@ -5,6 +5,7 @@
 - 📫 How to reach me on email: t.vamshikrishna2@gmail.com
 - 😄 Pronouns: he/him
 - Project_1: tvkprojectpage1.ccbp.tech
+- Static Website Github Link: https://github.com/Vammshi2/Build-Your-Own-Static-Website
 
 <!---
 Vammshi2/Vammshi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
