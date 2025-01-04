@@ -37,12 +37,15 @@ An **image classification** project using **Convolutional Neural Networks (CNN)*
 A **web-based application** for managing patient records, appointments, and billing. Utilized **MySQL** for efficient data management and **Python** for secure user authentication.  
 **Technologies:** HTML, CSS, JavaScript, Python, MySQL
 
+
 ## 🏆 Achievements & Certifications
 
 - **All-India Rank 96** in the **Daksh Gurukul - IIT Guwahati Data Science Program**.
-- **HackerRank Python (Basic) Certification** – Skills covered: Scalar Types, Operators, Control Flow, Strings, Collections, and Iteration.
-- **Web Development with HTML, CSS, JavaScript Essentials** – Web development skills. [View Certificate](https://www.credly.com/badges/2f97efcc-1bc6-4135-9529-b8d7df791cfd/public_url)
-- **SQL Certification** – Knowledge in SQL for data management. [View Certificate](https://www.hackerrank.com/certificates/def201d5f980)
+- **Google Cloud Digital Leader** certificate, emphasizing skills in cloud technologies and strategic leadership. [View Certificate](https://www.credly.com/badges/b7b69925-5fe8-4d6a-9c0b-edaa362eef1c/public_url)
+- **HackerRank JavaScript Certification** – Demonstrated proficiency in complex JavaScript concepts. [View Certificate](https://www.hackerrank.com/certificates/b0f99c2ab35b)
+- **HackerRank Problem Solving Certification** – Demonstrated proficiency in problem-solving. [View Certificate](https://www.hackerrank.com/certificates/8aff61d746e1)
+- **HackerRank SQL Certification** – Demonstrated proficiency in SQL. [View Certificate](https://www.hackerrank.com/certificates/def201d5f980)
+- **HackerRank CSS Certification** – Demonstrated proficiency in CSS. [View Certificate](https://www.hackerrank.com/certificates/e6a9229e88cf)
 
 ## 📈 Contributions
 
