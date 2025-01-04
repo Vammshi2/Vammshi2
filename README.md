@@ -41,7 +41,7 @@ A **web-based application** for managing patient records, appointments, and bill
 ## 🏆 Achievements & Certifications
 
 - **All-India Rank 96** in the **Daksh Gurukul - IIT Guwahati Data Science Program**.
-- - **Web Development with HTML, CSS, JavaScript Essentials** – Web development skills. [View Certificate](https://www.credly.com/badges/2f97efcc-1bc6-4135-9529-b8d7df791cfd/public_url)
+- **Web Development with HTML, CSS, JavaScript Essentials** – Web development skills. [View Certificate](https://www.credly.com/badges/2f97efcc-1bc6-4135-9529-b8d7df791cfd/public_url)
 - **Google Cloud Digital Leader** certificate, emphasizing skills in cloud technologies and strategic leadership. [View Certificate](https://www.credly.com/badges/b7b69925-5fe8-4d6a-9c0b-edaa362eef1c/public_url)
 - **HackerRank JavaScript Certification** – Demonstrated proficiency in complex JavaScript concepts. [View Certificate](https://www.hackerrank.com/certificates/b0f99c2ab35b)
 - **HackerRank Problem Solving Certification** – Demonstrated proficiency in problem-solving. [View Certificate](https://www.hackerrank.com/certificates/8aff61d746e1)
