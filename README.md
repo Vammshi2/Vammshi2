@@ -11,11 +11,10 @@ Welcome to my GitHub profile! I am a **Software Developer** with a passion for s
 ## 🚀 Skills & Technologies
 
 - **Programming Languages:** Python, JavaScript, C++, HTML, CSS  
-- **Web Development:** React.js, Node.js, Express.js, Bootstrap  
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- **Web Development:** React.js, Node.js, Express.js, Bootstrap   
 - **Data Science Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Docker
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
 
 ## 💼 Projects
 
