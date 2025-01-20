@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **Software Developer** with a passion for s
 
 ## Links
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vammshi2.github.io/Vammshi_Portfolio/)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17K8Qa1RcHqCAgJ-SYgcC2jduKY8wb7ZU/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ghQCSv80NGNjWql0nWSjEOaaOG1gID9a/view?usp=sharing)
 
 ## 🚀 Skills & Technologies
 
