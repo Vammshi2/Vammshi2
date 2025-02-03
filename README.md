@@ -48,6 +48,13 @@ Performed **exploratory data analysis (EDA)** on the Titanic dataset to uncover 
 Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants. Improved model accuracy by 17% and deployed a web application for farmers to upload images for real-time detection.  
 **Technologies:** Python, TensorFlow, CNN, Flask
 
+## 📚 Publications  
+
+### [**Enhanced Detection of Parkinson's Disease Using XGBoost and Explainable AI: A SHAP-Based Approach**](https://www.ijaresm.com/uploaded_files/document_file/Reena_Roy_RKdua.pdf)  
+Published in **International Journal of All Research Education & Scientific Methods** · **Sep 9, 2024**  
+
+This research presents an advanced approach for identifying **Parkinson's disease (PD)** using **XGBoost** for high-accuracy predictions and **SHAP (SHapley Additive exPlanations)** to enhance model interpretability. By combining **machine learning** with **explainable AI**, the study highlights **key biomarkers** influencing PD diagnosis, leading to improved clinical decision-making and personalized treatment strategies.  
+**Technologies:** XGBoost, SHAP, Machine Learning, Explainable AI (XAI), Data Analysis
 
 
 ## 🏆 Achievements & Certifications
