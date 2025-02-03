@@ -77,7 +77,10 @@ I’m passionate about contributing to **open-source projects** and collaboratin
 
 ## 🌱 Learning & Growth
 
-I am currently focused on improving my skills in **machine learning** and **cloud technologies** to build impactful solutions. I look forward to applying these skills in **software development** and **data science** roles.
+I am currently focused on improving my skills in **machine learning**, **cloud technologies**, and **front-end development** to build impactful solutions. Along with that, I am actively enhancing my **problem-solving abilities** through competitive programming and algorithmic challenges.  
+
+I look forward to applying these skills in **software development** and **data science** roles, where I can contribute to innovative projects and create efficient, scalable solutions.
+
 
 
 ## GitHub Stats & Activity
