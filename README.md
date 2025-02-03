@@ -1,6 +1,5 @@
-# Hi there, I'm Vamshi Krishna! 👋
+# Hi there, I'm Vamshi Krishna! 👋  Welcome to my GitHub profile! 
 
-# Welcome to my GitHub profile! 
 
 I am a **passionate Software Developer** eager to solve real-world problems using **web development**, **data analysis**, and **machine learning**. I love building innovative and efficient solutions through my technical skills and creativity.
 
