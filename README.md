@@ -14,12 +14,13 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1IYFECPfAHfSBlZg7WiEq5zTFhWxVCpDC/view?usp=sharing)
 
 ## 🚀 Skills & Technologies
-
-- **Programming Languages:** Python, JavaScript, C++, HTML, CSS  
-- **Web Development:** React.js, Node.js, Express.js, Bootstrap   
-- **Data Science Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Programming Languages:** Python, JavaScript, C++, Java, HTML, CSS  
+- **Web Development:** React.js, Bootstrap, Thymeleaf  
+- **Machine Learning & AI:** XGBoost, SHAP, CNN, NLP, Large Language Models (LLM)  
+- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, FAISS, Chroma  
 - **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit  
+
 
 ## 💼 Projects
 
