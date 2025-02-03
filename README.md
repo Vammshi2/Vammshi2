@@ -25,20 +25,29 @@ I am a **passionate Software Developer** eager to solve real-world problems usin
 Here are a few of my notable projects:
 
 ### 1. [**Stock Trend Analyzer**](link-to-repo)  
-A **predictive model** built to forecast stock price movements using historical financial data, combined with **Natural Language Processing (NLP)** for sentiment analysis and real-time interactive visualization.  
+Developed a **predictive model** to forecast stock price movements and identify market trends using historical financial data. Integrated **Natural Language Processing (NLP)** techniques for data preprocessing and insights extraction. Designed a real-time interactive web application for visualizing trends and providing human-readable insights with **Large Language Models**.  
 **Technologies:** Python, Streamlit, NLP, Chroma, FAISS, Large Language Models
 
-### 2. [**E-commerce Website App**](link-to-repo)  
-A fully functional **e-commerce platform** featuring dynamic front-end and back-end capabilities. Integrated **user authentication**, **product filtering**, and **real-time data storage** with MongoDB.  
+### 2. [**Hospital Management System**](link-to-repo)  
+Developed a **web-based application** to manage patient records, appointment scheduling, and billing operations. Implemented secure **user authentication** and integrated **MySQL** for real-time data management. Designed a responsive front-end using **HTML, CSS, and JavaScript**, with **Thymeleaf** for dynamic content rendering.  
+**Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf
+
+### 3. [**E-commerce Website App**](link-to-repo)  
+Built a fully functional **e-commerce platform** with dynamic front-end and back-end capabilities. Implemented features like **user authentication**, **product filtering**, and **shopping cart management**. Integrated **Node.js** for the back-end and utilized **React.js** for real-time rendering.  
 **Technologies:** HTML, CSS, JavaScript, React.js, Node.js
 
-### 3. [**Potato Disease Classification**](link-to-repo)  
-An **image classification** project using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants, with a user-friendly web interface for real-time analysis.  
+### 4. [**Portfolio Website**](link-to-repo)  
+A dynamic **personal portfolio website** showcasing my skills, projects, and professional journey. Features interactive sections including **Home**, **About Me**, **Education**, **Skills**, **Certifications**, **Projects**, **Experience**, **Achievements**, and **Contact**.  
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+### 5. [**Titanic Dataset Exploration (EDA)**](link-to-repo)  
+Performed **exploratory data analysis (EDA)** on the Titanic dataset to uncover trends and insights. Utilized **Python** libraries like **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data preprocessing, visualization, and analysis.  
+**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn
+
+### 6. [**Potato Disease Classification**](link-to-repo)  
+Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants. Improved model accuracy by 17% and deployed a web application for farmers to upload images for real-time detection.  
 **Technologies:** Python, TensorFlow, CNN, Flask
 
-### 4. [**Hospital Management System**](link-to-repo)  
-A **web-based application** for managing patient records, appointments, and billing. Utilized **MySQL** for efficient data management and **Python** for secure user authentication.  
-**Technologies:** HTML, CSS, JavaScript, Python, MySQL
 
 
 ## 🏆 Achievements & Certifications
