@@ -67,6 +67,7 @@ I am currently focused on improving my skills in **machine learning** and **clou
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919603806780)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
 
+## GitHub Stats & Activity
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vammshi2&show_icons=true&locale=en&layout=compact" alt="Vammshi2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vammshi2&show_icons=true&locale=en" alt="Vammshi2" /></p>
