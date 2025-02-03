@@ -1,5 +1,6 @@
- <h3 align="center">Welcome to my GitHub profile! </h3>
-<h1 align="center">Hi there, I'm Vamshi Krishna! 👋 </h1>
+<h2 align="center">Hello and welcome to my GitHub profile! </h2>
+<h1 align="center">Hi, I'm Vamshi Krishna! 👋</h1>
+
 
 
 I am a **passionate Software Developer** eager to solve real-world problems using **web development**, **data analysis**, and **machine learning**. I love building innovative and efficient solutions through my technical skills and creativity.
