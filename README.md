@@ -61,11 +61,6 @@ I’m passionate about contributing to **open-source projects** and collaboratin
 
 I am currently focused on improving my skills in **machine learning** and **cloud technologies** to build impactful solutions. I look forward to applying these skills in **software development** and **data science** roles.
 
-## 📞 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919603806780)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
 
 ## GitHub Stats & Activity
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vammshi2&show_icons=true&locale=en&layout=compact" alt="Vammshi2" /></p>
@@ -73,6 +68,13 @@ I am currently focused on improving my skills in **machine learning** and **clou
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vammshi2&show_icons=true&locale=en" alt="Vammshi2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vammshi2&" alt="Vammshi2" /></p>
+
+## 📞 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919603806780)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
+
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
