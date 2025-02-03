@@ -65,11 +65,11 @@ I am currently focused on improving my skills in **machine learning** and **clou
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919603806780)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-kimanzi&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vammshi2&show_icons=true&locale=en&layout=compact" alt="Vammshi2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-kimanzi&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vammshi2&show_icons=true&locale=en" alt="Vammshi2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-kimanzi&" alt="peter-kimanzi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vammshi2&" alt="Vammshi2" /></p>
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
