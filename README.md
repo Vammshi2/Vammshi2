@@ -33,8 +33,8 @@ Developed a **web-based application** to manage patient records, appointment sch
 **Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf
 
 ### 3. [**E-commerce Website App**](link-to-repo)  
-Built a fully functional **e-commerce platform** with dynamic front-end and back-end capabilities. Implemented features like **user authentication**, **product filtering**, and **shopping cart management**. Integrated **Node.js** for the back-end and utilized **React.js** for real-time rendering.  
-**Technologies:** HTML, CSS, JavaScript, React.js, Node.js
+Developed a **fully functional e-commerce website** with an interactive and responsive **front-end**. Implemented features like **product filtering**, **shopping cart management**, and **user-friendly navigation** using only front-end technologies. Designed a visually appealing interface with **Bootstrap**, ensuring a seamless user experience across devices.  
+**Technologies:** HTML, CSS, JavaScript, React.js, Bootstrap
 
 ### 4. [**Portfolio Website**](link-to-repo)  
 A dynamic **personal portfolio website** showcasing my skills, projects, and professional journey. Features interactive sections including **Home**, **About Me**, **Education**, **Skills**, **Certifications**, **Projects**, **Experience**, **Achievements**, and **Contact**.  
