@@ -90,7 +90,6 @@ I look forward to applying these skills in **software development** and **data s
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vammshi2&show_icons=true&locale=en" alt="Vammshi2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vammshi2&" alt="Vammshi2" /></p>
 
 ## 📞 Let's Connect!
 
