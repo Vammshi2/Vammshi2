@@ -22,33 +22,84 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit  
 
 
-## 💼 Projects
+# 📌 My Projects
 
-Here are a few of my notable projects:
+Welcome to my project repository! Here, you can find a collection of my projects, including descriptions, technologies used, and links to both GitHub repositories and deployed versions. 🚀
 
-### 1. [**Stock Trend Analyzer**](link-to-repo)  
-Developed a **predictive model** to forecast stock price movements and identify market trends using historical financial data. Integrated **Natural Language Processing (NLP)** techniques for data preprocessing and insights extraction. Designed a real-time interactive web application for visualizing trends and providing human-readable insights with **Large Language Models**.  
-**Technologies:** Python, Streamlit, NLP, Chroma, FAISS, Large Language Models
+---
 
-### 2. [**Hospital Management System**](link-to-repo)  
-Developed a **web-based application** to manage patient records, appointment scheduling, and billing operations. Implemented secure **user authentication** and integrated **MySQL** for real-time data management. Designed a responsive front-end using **HTML, CSS, and JavaScript**, with **Thymeleaf** for dynamic content rendering.  
-**Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf
+## 📂 Project List
 
-### 3. [**E-commerce Website App**](link-to-repo)  
-Developed a **fully functional e-commerce website** with an interactive and responsive **front-end**. Implemented features like **product filtering**, **shopping cart management**, and **user-friendly navigation** using only front-end technologies. Designed a visually appealing interface with **Bootstrap**, ensuring a seamless user experience across devices.  
-**Technologies:** HTML, CSS, JavaScript, React.js, Bootstrap
+| Project Name | GitHub Repository | Live Demo |
+|-------------|------------------|----------|
+| **Graph-Based Sudoku Solver** | [GitHub](https://github.com/Vammshi2/Sudoku-Solver) | [Live](https://vamsudoku.netlify.app/) |
+| **Online Voting System** | [GitHub](https://github.com/Vammshi2/Online-Voting-System) | [Live](https://vamvoting.netlify.app/) |
+| **CPU Scheduling** | [GitHub](https://github.com/Vammshi2/CPU-Scheduling) | [Live](https://vamcpu.netlify.app/) |
+| **Binary Search Tree (BST) Visualizer** | [GitHub](https://github.com/Vammshi2/BST) | [Live](https://vambst.netlify.app/) |
+| **Array Visualizer** | [GitHub](https://github.com/Vammshi2/VamArray) | [Live](https://vamarray.netlify.app/) |
+| **Sorting Algorithm Visualizer** | [GitHub](https://github.com/Vammshi2/VamSorting/) | [Live](https://vamsorting.netlify.app/) |
+| **Interactive String Visualizer** | [GitHub](https://github.com/Vammshi2/VamString) | [Live](https://vamstring.netlify.app/) |
+| **Queue Visualizer** | [GitHub](https://github.com/Vammshi2/VamQueue) | [Live](https://vamqueue.netlify.app/) |
+| **Stack Data Structure Visualizer** | [GitHub](https://github.com/Vammshi2/VamStack) | [Live](https://vamstack.netlify.app/) |
 
-### 4. [**Portfolio Website**](link-to-repo)  
-A dynamic **personal portfolio website** showcasing my skills, projects, and professional journey. Features interactive sections including **Home**, **About Me**, **Education**, **Skills**, **Certifications**, **Projects**, **Experience**, **Achievements**, and **Contact**.  
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+---
 
-### 5. [**Titanic Dataset Exploration (EDA)**](link-to-repo)  
-Performed **exploratory data analysis (EDA)** on the Titanic dataset to uncover trends and insights. Utilized **Python** libraries like **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data preprocessing, visualization, and analysis.  
-**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn
+## 📌 Project Descriptions
 
-### 6. [**Potato Disease Classification**](link-to-repo)  
-Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants. Improved model accuracy by 17% and deployed a web application for farmers to upload images for real-time detection.  
-**Technologies:** Python, TensorFlow, CNN, Flask
+### **1. Graph-Based Sudoku Solver**
+**Description:**
+An AI-powered Sudoku Solver that uses graph-based techniques to solve Sudoku puzzles efficiently. The algorithm analyzes constraints and optimizes solving techniques.
+**Technologies:** Python, Graph Theory, Algorithm Design
+
+### **2. Online Voting System**
+**Description:**
+A secure web-based voting system that enables users to cast votes electronically. Implements authentication mechanisms to ensure voting integrity.
+**Technologies:** HTML, CSS, JavaScript, Node.js, Firebase
+
+### **3. Task Scheduler Simulation (CPU Scheduling Algorithms)**
+**Description:**
+Simulates various CPU scheduling algorithms like FCFS, Round Robin, and SJF, analyzing performance metrics like turnaround and waiting time.
+**Technologies:** Python, Flask, Data Visualization
+
+### **4. Binary Search Tree (BST) Visualizer**
+**Description:**
+An interactive visualization tool for BST operations like insertion, deletion, and traversal.
+**Technologies:** JavaScript, HTML, CSS, D3.js
+
+### **5. Array Visualizer**
+**Description:**
+A tool to demonstrate array operations (insertion, deletion, searching) with step-by-step visualization.
+**Technologies:** JavaScript, HTML, CSS
+
+### **6. Sorting Algorithm Visualizer**
+**Description:**
+An interactive visualizer for sorting algorithms like Bubble Sort, Merge Sort, and Quick Sort.
+**Technologies:** JavaScript, HTML, CSS
+
+### **7. Interactive String Visualizer**
+**Description:**
+A web-based tool for visualizing string operations like reversing, pattern matching, and transformations.
+**Technologies:** JavaScript, HTML, CSS
+
+### **8. Queue Visualizer**
+**Description:**
+A dynamic simulation of queue operations including enqueue, dequeue, and circular queues.
+**Technologies:** JavaScript, HTML, CSS
+
+### **9. Stack Data Structure Visualizer**
+**Description:**
+An interactive stack operations visualizer demonstrating push, pop, and peek functionalities.
+**Technologies:** JavaScript, HTML, CSS
+
+---
+
+### 📩 Contact & Portfolio
+- **Portfolio:** [View Here](#)
+- **LinkedIn:** [Connect Here](#)
+- **GitHub:** [Explore More Projects](https://github.com/Vammshi2)
+
+Feel free to explore the projects and contribute! ⭐
+
 
 ## 📚 Publications  
 
