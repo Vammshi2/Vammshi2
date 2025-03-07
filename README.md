@@ -44,61 +44,78 @@ Welcome to my project repository! Here, you can find a collection of my projects
 
 ---
 
-## 📌 Project Descriptions
+# 📌 Projects
 
-### **1. Graph-Based Sudoku Solver**
-**Description:**
-An AI-powered Sudoku Solver that uses graph-based techniques to solve Sudoku puzzles efficiently. The algorithm analyzes constraints and optimizes solving techniques.
-**Technologies:** Python, Graph Theory, Algorithm Design
-
-### **2. Online Voting System**
-**Description:**
-A secure web-based voting system that enables users to cast votes electronically. Implements authentication mechanisms to ensure voting integrity.
-**Technologies:** HTML, CSS, JavaScript, Node.js, Firebase
-
-### **3. Task Scheduler Simulation (CPU Scheduling Algorithms)**
-**Description:**
-Simulates various CPU scheduling algorithms like FCFS, Round Robin, and SJF, analyzing performance metrics like turnaround and waiting time.
-**Technologies:** Python, Flask, Data Visualization
-
-### **4. Binary Search Tree (BST) Visualizer**
-**Description:**
-An interactive visualization tool for BST operations like insertion, deletion, and traversal.
-**Technologies:** JavaScript, HTML, CSS, D3.js
-
-### **5. Array Visualizer**
-**Description:**
-A tool to demonstrate array operations (insertion, deletion, searching) with step-by-step visualization.
-**Technologies:** JavaScript, HTML, CSS
-
-### **6. Sorting Algorithm Visualizer**
-**Description:**
-An interactive visualizer for sorting algorithms like Bubble Sort, Merge Sort, and Quick Sort.
-**Technologies:** JavaScript, HTML, CSS
-
-### **7. Interactive String Visualizer**
-**Description:**
-A web-based tool for visualizing string operations like reversing, pattern matching, and transformations.
-**Technologies:** JavaScript, HTML, CSS
-
-### **8. Queue Visualizer**
-**Description:**
-A dynamic simulation of queue operations including enqueue, dequeue, and circular queues.
-**Technologies:** JavaScript, HTML, CSS
-
-### **9. Stack Data Structure Visualizer**
-**Description:**
-An interactive stack operations visualizer demonstrating push, pop, and peek functionalities.
-**Technologies:** JavaScript, HTML, CSS
+## 1. Graph-Based Sudoku Solver  
+**Description:** Developed a **graph-based algorithm** to solve Sudoku puzzles efficiently. The system utilizes **backtracking and constraint propagation** to provide instant solutions to even the hardest Sudoku problems.  
+**Technologies:**  
+Python, Graph Theory, Backtracking Algorithm  
+[GitHub Repo](https://github.com/Vammshi2/Sudoku-Solver) | [Live Demo](https://vamsudoku.netlify.app/)
 
 ---
 
-### 📩 Contact & Portfolio
-- **Portfolio:** [View Here](#)
-- **LinkedIn:** [Connect Here](#)
-- **GitHub:** [Explore More Projects](https://github.com/Vammshi2)
+## 2. Online Voting System  
+**Description:** A secure and efficient web-based **electronic voting system** that ensures authentication and anonymity for voters. The system maintains data integrity while providing a user-friendly interface.  
+**Technologies:**  
+HTML, CSS, JavaScript, Firebase  
+[GitHub Repo](https://github.com/Vammshi2/Online-Voting-System) | [Live Demo](https://vamvoting.netlify.app/)
 
-Feel free to explore the projects and contribute! ⭐
+---
+
+## 3. CPU Scheduling (Task Scheduler Simulation)  
+**Description:** Simulated various **CPU scheduling algorithms** such as FCFS, SJF, RR, and Priority Scheduling, analyzing performance based on turnaround time, waiting time, and CPU utilization.  
+**Technologies:**  
+Python, Matplotlib, NumPy  
+[GitHub Repo](https://github.com/Vammshi2/CPU-Scheduling) | [Live Demo](https://vamcpu.netlify.app/)
+
+---
+
+## 4. Binary Search Tree (BST) Visualizer  
+**Description:** An interactive **BST visualization tool** that demonstrates insertion, deletion, and traversal operations dynamically, helping users understand tree-based data structures.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/BST) | [Live Demo](https://vambst.netlify.app/)
+
+---
+
+## 5. Array Visualizer  
+**Description:** A web-based tool that illustrates **array manipulations** such as insertion, deletion, searching, and updating elements through step-by-step visualization.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/VamArray) | [Live Demo](https://vamarray.netlify.app/)
+
+---
+
+## 6. Sorting Algorithm Visualizer  
+**Description:** Demonstrates sorting algorithms such as **Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and Selection Sort** through animated visualizations.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/VamSorting/) | [Live Demo](https://vamsorting.netlify.app)
+
+---
+
+## 7. Interactive String Visualizer  
+**Description:** A real-time **string operation visualizer** that enables users to explore reversing, searching substrings, pattern matching, and text transformations.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/VamString) | [Live Demo](https://vamstring.netlify.app)
+
+---
+
+## 8. Queue Visualizer  
+**Description:** A simulation of **queue operations** such as enqueue, dequeue, and front/rear element access, including circular and priority queues.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/VamQueue) | [Live Demo](https://vamqueue.netlify.app/)
+
+---
+
+## 9. Stack Data Structure Visualizer  
+**Description:** An interactive representation of **stack operations** like push, pop, peek, and checking empty/full conditions, demonstrating the LIFO principle.  
+**Technologies:**  
+JavaScript, HTML, CSS  
+[GitHub Repo](https://github.com/Vammshi2/VamStack) | [Live Demo](https://vamstack.netlify.app/)
+
 
 
 ## 📚 Publications  
