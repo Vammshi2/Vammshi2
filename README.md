@@ -124,7 +124,7 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 **Technologies:** Python, TensorFlow, CNN, Flask, React.js (Visualization)
 
 
---
+---
 
 
 ## 📚 Publications  
