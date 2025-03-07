@@ -24,95 +24,112 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 
 ---
 
-
 # 📌 Projects
 
 ## 1. Graph-Based Sudoku Solver  
-**Description:** Developed a **graph-based algorithm** to solve Sudoku puzzles efficiently. The system utilizes **backtracking and constraint propagation** to provide instant solutions to even the hardest Sudoku problems.  
-**Technologies:**  Python, Graph Theory, Backtracking Algorithm  
+**Description:** Developed an **efficient graph-based algorithm** to solve Sudoku puzzles using **backtracking and constraint propagation**. Capable of providing instant solutions to even the most challenging puzzles.  
+**Technologies:** Python, Graph Theory, Backtracking Algorithm  
 [GitHub Repo](https://github.com/Vammshi2/Sudoku-Solver) | [Live Demo](https://vamsudoku.netlify.app/)
 
 ---
 
 ## 2. Online Voting System  
-**Description:** A secure and efficient web-based **electronic voting system** that ensures authentication and anonymity for voters. The system maintains data integrity while providing a user-friendly interface.  
-**Technologies:**  HTML, CSS, JavaScript, Firebase  
+**Description:** A secure web-based **electronic voting system** that ensures authentication, anonymity, and data integrity, providing a seamless user experience.  
+**Technologies:** HTML, CSS, JavaScript, Firebase  
 [GitHub Repo](https://github.com/Vammshi2/Online-Voting-System) | [Live Demo](https://vamvoting.netlify.app/)
 
 ---
 
 ## 3. CPU Scheduling (Task Scheduler Simulation)  
-**Description:** Simulated various **CPU scheduling algorithms** such as FCFS, SJF, RR, and Priority Scheduling, analyzing performance based on turnaround time, waiting time, and CPU utilization.  
-**Technologies:**  Python, Matplotlib, NumPy  
+**Description:** Simulated **CPU scheduling algorithms** (FCFS, SJF, RR, and Priority Scheduling) to analyze performance metrics like turnaround time and CPU utilization.  
+**Technologies:** Python, Matplotlib, NumPy  
 [GitHub Repo](https://github.com/Vammshi2/CPU-Scheduling) | [Live Demo](https://vamcpu.netlify.app/)
 
 ---
 
 ## 4. Binary Search Tree (BST) Visualizer  
-**Description:** An interactive **BST visualization tool** that demonstrates insertion, deletion, and traversal operations dynamically, helping users understand tree-based data structures.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** An interactive tool that visually demonstrates **BST operations** such as insertion, deletion, and traversal.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/BST) | [Live Demo](https://vambst.netlify.app/)
 
 ---
 
 ## 5. Array Visualizer  
-**Description:** A web-based tool that illustrates **array manipulations** such as insertion, deletion, searching, and updating elements through step-by-step visualization.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** A web-based tool to illustrate **array manipulations** including insertion, deletion, searching, and updating elements with step-by-step visualization.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamArray) | [Live Demo](https://vamarray.netlify.app/)
 
 ---
 
 ## 6. Sorting Algorithm Visualizer  
-**Description:** Demonstrates sorting algorithms such as **Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and Selection Sort** through animated visualizations.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** A dynamic visualization of sorting algorithms such as **Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and Selection Sort**.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamSorting/) | [Live Demo](https://vamsorting.netlify.app)
 
 ---
 
 ## 7. Interactive String Visualizer  
-**Description:** A real-time **string operation visualizer** that enables users to explore reversing, searching substrings, pattern matching, and text transformations.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** A **real-time string operation visualizer** showcasing reversing, substring searching, pattern matching, and text transformations.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamString) | [Live Demo](https://vamstring.netlify.app)
 
 ---
 
 ## 8. Queue Visualizer  
-**Description:** A simulation of **queue operations** such as enqueue, dequeue, and front/rear element access, including circular and priority queues.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** A simulation of **queue operations** including enqueue, dequeue, and priority queue management.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamQueue) | [Live Demo](https://vamqueue.netlify.app/)
 
 ---
 
 ## 9. Stack Data Structure Visualizer  
-**Description:** An interactive representation of **stack operations** like push, pop, peek, and checking empty/full conditions, demonstrating the LIFO principle.  
-**Technologies:**  JavaScript, HTML, CSS  
+**Description:** An interactive representation of **stack operations** like push, pop, peek, and empty/full condition checking, demonstrating the LIFO principle.  
+**Technologies:** JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamStack) | [Live Demo](https://vamstack.netlify.app/)
 
---
+---
 
-### 1. [**Stock Trend Analyzer**](link-to-repo)  
-Developed a **predictive model** to forecast stock price movements and identify market trends using historical financial data. Integrated **Natural Language Processing (NLP)** techniques for data preprocessing and insights extraction. Designed a real-time interactive web application for visualizing trends and providing human-readable insights with **Large Language Models**.  
-**Technologies:** Python, Streamlit, NLP, Chroma, FAISS, Large Language Models
+## 10. Stock Trend Analyzer  
+**Description:** A **predictive model** to forecast stock price trends using **historical financial data**. Integrated **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to enhance data insights.  
+**Technologies:** Python, Streamlit, NLP, Chroma, FAISS, Large Language Models  
+[GitHub Repo](link-to-repo)
 
-### 2. [**Hospital Management System**](link-to-repo)  
-Developed a **web-based application** to manage patient records, appointment scheduling, and billing operations. Implemented secure **user authentication** and integrated **MySQL** for real-time data management. Designed a responsive front-end using **HTML, CSS, and JavaScript**, with **Thymeleaf** for dynamic content rendering.  
-**Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf
+---
 
-### 3. [**E-commerce Website App**](link-to-repo)  
-Developed a **fully functional e-commerce website** with an interactive and responsive **front-end**. Implemented features like **product filtering**, **shopping cart management**, and **user-friendly navigation** using only front-end technologies. Designed a visually appealing interface with **Bootstrap**, ensuring a seamless user experience across devices.  
-**Technologies:** HTML, CSS, JavaScript, React.js, Bootstrap
+## 11. Hospital Management System  
+**Description:** A **web-based application** for managing patient records, appointment scheduling, and billing. Features **secure authentication** and real-time data handling.  
+**Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf  
+[GitHub Repo](link-to-repo)
 
-### 4. [**Portfolio Website**](link-to-repo)  
-A dynamic **personal portfolio website** showcasing my skills, projects, and professional journey. Features interactive sections including **Home**, **About Me**, **Education**, **Skills**, **Certifications**, **Projects**, **Experience**, **Achievements**, and **Contact**.  
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+---
 
-### 5. [**Titanic Dataset Exploration (EDA)**](link-to-repo)  
-Performed **exploratory data analysis (EDA)** on the Titanic dataset to uncover trends and insights. Utilized **Python** libraries like **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data preprocessing, visualization, and analysis.  
-**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn
+## 12. E-commerce Website App  
+**Description:** A **fully functional e-commerce platform** featuring **product filtering, shopping cart management, and intuitive navigation**. Designed with a **responsive and visually appealing UI**.  
+**Technologies:** HTML, CSS, JavaScript, React.js, Bootstrap  
+[GitHub Repo](link-to-repo)
 
-### 6. [**Potato Disease Classification**](link-to-repo)  
-Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants. Improved model accuracy by 17% and deployed a web application for farmers to upload images for real-time detection.  
-**Technologies:** Python, TensorFlow, CNN, Flask
+---
+
+## 13. Portfolio Website  
+**Description:** A dynamic **personal portfolio** showcasing skills, projects, certifications, and professional journey. Includes interactive sections for seamless navigation.  
+**Technologies:** HTML, CSS, JavaScript, Bootstrap  
+[GitHub Repo](link-to-repo)
+
+---
+
+## 14. Titanic Dataset Exploration (EDA)  
+**Description:** Conducted **exploratory data analysis (EDA)** on the Titanic dataset to uncover trends and insights using **data visualization** and statistical techniques.  
+**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn  
+[GitHub Repo](link-to-repo)
+
+---
+
+## 15. Potato Disease Classification  
+**Description:** Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify potato plant diseases. Achieved a **17% accuracy improvement** and deployed a web app for real-time detection.  
+**Technologies:** Python, TensorFlow, CNN, Flask  
+[GitHub Repo](link-to-repo)
+
+
 
 ## 📚 Publications  
 
