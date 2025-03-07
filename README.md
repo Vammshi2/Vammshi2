@@ -28,21 +28,6 @@ Welcome to my project repository! Here, you can find a collection of my projects
 
 ---
 
-## 📂 Project List
-
-| Project Name | GitHub Repository | Live Demo |
-|-------------|------------------|----------|
-| **Graph-Based Sudoku Solver** | [GitHub](https://github.com/Vammshi2/Sudoku-Solver) | [Live](https://vamsudoku.netlify.app/) |
-| **Online Voting System** | [GitHub](https://github.com/Vammshi2/Online-Voting-System) | [Live](https://vamvoting.netlify.app/) |
-| **CPU Scheduling** | [GitHub](https://github.com/Vammshi2/CPU-Scheduling) | [Live](https://vamcpu.netlify.app/) |
-| **Binary Search Tree (BST) Visualizer** | [GitHub](https://github.com/Vammshi2/BST) | [Live](https://vambst.netlify.app/) |
-| **Array Visualizer** | [GitHub](https://github.com/Vammshi2/VamArray) | [Live](https://vamarray.netlify.app/) |
-| **Sorting Algorithm Visualizer** | [GitHub](https://github.com/Vammshi2/VamSorting/) | [Live](https://vamsorting.netlify.app/) |
-| **Interactive String Visualizer** | [GitHub](https://github.com/Vammshi2/VamString) | [Live](https://vamstring.netlify.app/) |
-| **Queue Visualizer** | [GitHub](https://github.com/Vammshi2/VamQueue) | [Live](https://vamqueue.netlify.app/) |
-| **Stack Data Structure Visualizer** | [GitHub](https://github.com/Vammshi2/VamStack) | [Live](https://vamstack.netlify.app/) |
-
----
 
 # 📌 Projects
 
