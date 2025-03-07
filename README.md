@@ -22,10 +22,6 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit  
 
 
-# 📌 My Projects
-
-Welcome to my project repository! Here, you can find a collection of my projects, including descriptions, technologies used, and links to both GitHub repositories and deployed versions. 🚀
-
 ---
 
 
