@@ -88,7 +88,31 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 **Technologies:**  JavaScript, HTML, CSS  
 [GitHub Repo](https://github.com/Vammshi2/VamStack) | [Live Demo](https://vamstack.netlify.app/)
 
+--
 
+### 1. [**Stock Trend Analyzer**](link-to-repo)  
+Developed a **predictive model** to forecast stock price movements and identify market trends using historical financial data. Integrated **Natural Language Processing (NLP)** techniques for data preprocessing and insights extraction. Designed a real-time interactive web application for visualizing trends and providing human-readable insights with **Large Language Models**.  
+**Technologies:** Python, Streamlit, NLP, Chroma, FAISS, Large Language Models
+
+### 2. [**Hospital Management System**](link-to-repo)  
+Developed a **web-based application** to manage patient records, appointment scheduling, and billing operations. Implemented secure **user authentication** and integrated **MySQL** for real-time data management. Designed a responsive front-end using **HTML, CSS, and JavaScript**, with **Thymeleaf** for dynamic content rendering.  
+**Technologies:** Java, Spring Boot, Spring Security, MySQL, HTML, CSS, JavaScript, Thymeleaf
+
+### 3. [**E-commerce Website App**](link-to-repo)  
+Developed a **fully functional e-commerce website** with an interactive and responsive **front-end**. Implemented features like **product filtering**, **shopping cart management**, and **user-friendly navigation** using only front-end technologies. Designed a visually appealing interface with **Bootstrap**, ensuring a seamless user experience across devices.  
+**Technologies:** HTML, CSS, JavaScript, React.js, Bootstrap
+
+### 4. [**Portfolio Website**](link-to-repo)  
+A dynamic **personal portfolio website** showcasing my skills, projects, and professional journey. Features interactive sections including **Home**, **About Me**, **Education**, **Skills**, **Certifications**, **Projects**, **Experience**, **Achievements**, and **Contact**.  
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+### 5. [**Titanic Dataset Exploration (EDA)**](link-to-repo)  
+Performed **exploratory data analysis (EDA)** on the Titanic dataset to uncover trends and insights. Utilized **Python** libraries like **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data preprocessing, visualization, and analysis.  
+**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn
+
+### 6. [**Potato Disease Classification**](link-to-repo)  
+Developed an **image classification model** using **Convolutional Neural Networks (CNN)** to detect and classify diseases in potato plants. Improved model accuracy by 17% and deployed a web application for farmers to upload images for real-time detection.  
+**Technologies:** Python, TensorFlow, CNN, Flask
 
 ## 📚 Publications  
 
