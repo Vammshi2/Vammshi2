@@ -11,7 +11,7 @@ I am a **passionate Software Developer** eager to tackle real-world challenges t
 
 ## Links
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vamportfolio.netlify.app/)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/12gKKEkkzSeS9IpY46thWIppdHdRWLOhE/view)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QCPeicUjzjApxsvbjSoMClyqxJcBcTdh/view?usp=drive_link)
 
 ## 🚀 Skills & Technologies
 - **Programming Languages:** Python, JavaScript, C++, Java, HTML, CSS  
